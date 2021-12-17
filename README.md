@@ -1,2 +1,14 @@
 # DesignPatternsPractices
-Repository to practice the design patterns
+Repository to practice design patterns
+
+** Creational
+
+
+
+** Structural
+
+
+
+** Behavioural
+
+
